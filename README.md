@@ -4,5 +4,5 @@ machinelearning
 representationlearning
 deeplearning
 
-usefull urls:
+schedules:\n
 https://nurture.ai/ai-saturdays
